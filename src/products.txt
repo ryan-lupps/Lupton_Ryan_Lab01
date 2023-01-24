@@ -1,0 +1,3 @@
+000001, Product1, Cool thing, 400.0
+000002, Product2, This thing works as intended, 300.0
+000003, Product3, A good looking product, 599.0
